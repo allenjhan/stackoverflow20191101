@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allen/rep/stackoverflow20191101/target/scala-2.13/stackoverflow20191101_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest$Element.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest$Element.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest$Direction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest$Direction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest$Element$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest$Element$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest$Left$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest$Left$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest$Right$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest$Right$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PermutationsTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191101/target/scala-2.13/classes/PermutationsTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

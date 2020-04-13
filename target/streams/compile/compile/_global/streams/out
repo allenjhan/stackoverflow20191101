@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/allen/rep/stackoverflow20191101/src/main/scala/PermutationsTest.scala:61:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Option[(Int, Int)][0m
+[0m[[0m[31merror[0m] [0m[0m required: Option[Int][0m
+[0m[[0m[31merror[0m] [0m[0m          mobiles.map(x=>(x,seq(x).i)).foldLeft(None: Option[(Int, Int)]){ case (acc, elem) =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
